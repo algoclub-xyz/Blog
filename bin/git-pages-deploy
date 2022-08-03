@@ -1,0 +1,18 @@
+#!/bin/sh
+if [ -z "$1" ]
+then
+  echo "Which folder do you want to deploy to GitHub Pages?"
+  exit 1
+fi
+
+if [ -z "$2" ]
+then
+  echo "What is the version of your release?"
+  exit 1
+fi
+
+hugo -d $1
+
+git add $1 -f && git commit -m "AlgoClub Release #$2"
+
+git subtree push --prefix $1 origin build
