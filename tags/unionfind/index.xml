@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unionfind on Algoclub</title>
+    <link>https://algoclub-xyz.github.io/Blog/tags/unionfind/</link>
+    <description>Recent content in unionfind on Algoclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoclub-xyz.github.io/Blog/tags/unionfind/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventures of Union Find</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-22-adventures-of-union-find/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-22-adventures-of-union-find/</guid>
+      <description>Hello folks 👋
+Glad to see you reading this article again! Today we&amp;rsquo;re gonna talk about problems in graphs.
+Let&amp;rsquo;s take a look at the problem below.
+Imagine we have an edge-weighted undirected graph consisting of a few nodes. Our target is to find a minimum spanning tree in this graph.
+Minimum spanning tree is an undirected subgraph that contains all the vertices without cycles and with a minimum edges weight.</description>
+    </item>
+    
+  </channel>
+</rss>

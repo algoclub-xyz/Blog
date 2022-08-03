@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>greeting on Algoclub</title>
+    <link>https://algoclub-xyz.github.io/Blog/tags/greeting/</link>
+    <description>Recent content in greeting on Algoclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoclub-xyz.github.io/Blog/tags/greeting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world !1!!</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-18-hello-world-1/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-18-hello-world-1/</guid>
+      <description>Hello and welcome to Algo Club 👋
+My name is Alex and I am a software engineer. Yeah, a guy from IT. No, my office is not in the basement, I do speak with people, and, besides sweaters, my wardrobe has a lot of different clothes.
+I&amp;rsquo;ve been procrastinating for a long time (definitely for a few years) before started doing something. Literally, I was so unsure about anything so it was a real challenge to even pick up a proper name.</description>
+    </item>
+    
+  </channel>
+</rss>

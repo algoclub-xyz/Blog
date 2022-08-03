@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>solvingleetcode on Algoclub</title>
+    <link>https://algoclub-xyz.github.io/Blog/tags/solvingleetcode/</link>
+    <description>Recent content in solvingleetcode on Algoclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoclub-xyz.github.io/Blog/tags/solvingleetcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving Leetcode: #142 Linked List Cycle 2</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-06-solving-leetcode-142-linked-list-cycle-2/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-06-solving-leetcode-142-linked-list-cycle-2/</guid>
+      <description>Pew-pew, subs!
+How are you doing? Have you missed me?
+Today we continue to observe tortoises and hairs from [the previous Solving Leetcode session.](https://algoclub.xyz/2022/01/30/solving-leetcode-141-linked-list-cycle/(opens in a new tab)) We&amp;rsquo;re gonna solve the problem #142 Linked List Cycle 2.
+Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer.</description>
+    </item>
+    
+    <item>
+      <title>Solving Leetcode: #141 Linked List Cycle</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-30-solving-leetcode-141-linked-list-cycle/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-30-solving-leetcode-141-linked-list-cycle/</guid>
+      <description>Yo-yo
+Wow, another week has passed since the previous Solving Leetcode #1345 article.
+Today we are going to solve [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/ problem). Let&amp;rsquo;s start from the statement:
+Given head, the head of a linked list, determine if the linked list has a cycle in it.
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer.</description>
+    </item>
+    
+    <item>
+      <title>Solving Leetcode: #1345 Jump Game IV</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-23-solving-leetcode-1345-jump-game-iv/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-23-solving-leetcode-1345-jump-game-iv/</guid>
+      <description>Have you missed me?
+Yeah, me too and I am happy to be back again with a new article! Lately I did a thing and pretty glad to introduce a new have non-periodical column at our website! During these small sessions we are going to solve and explain the problems from Leetcode. Sounds exciting, right?
+So this time the problem is #1345. Jump Game IV. Let me also to copy the problem statement here.</description>
+    </item>
+    
+  </channel>
+</rss>

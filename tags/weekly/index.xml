@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>weekly on Algoclub</title>
+    <link>https://algoclub-xyz.github.io/Blog/tags/weekly/</link>
+    <description>Recent content in weekly on Algoclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoclub-xyz.github.io/Blog/tags/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thirty seconds over Ternary Search tree</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-02-thirty-seconds-over-ternary-search-tree/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-02-thirty-seconds-over-ternary-search-tree/</guid>
+      <description>Wow! It&amp;rsquo;s been another week from the time when I wrote the previous article about grokking algorithms. The time is passing so fast I barely can see it!
+Today I want to introduce a new concept to you - Ternary Search Tree (aka TST). You may already have heard about Binary Search Tree (aka BST) and this idea is pretty similar. Don&amp;rsquo;t worry if you did not hear about BST or any trees at all before, TST is pretty easy to understand and you will quickly nail it!</description>
+    </item>
+    
+    <item>
+      <title>A fish called Fenwick tree</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-19-a-fish-called-fenwick-tree/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-19-a-fish-called-fenwick-tree/</guid>
+      <description>You may wonder, &amp;ldquo;Fenwick what? Which tree???&amp;rdquo;. Don&amp;rsquo;t be afraid of the spooky term the idea is pretty innocent. Remember: fear is the path to the dark side.
+First of all, let&amp;rsquo;s start with a simple problem:
+Imagine you have an array a of integers of length n. For the sake of simplicity let&amp;rsquo;s assume it is a one-dimensional array.
+You are given 2 values start and finish and your goal is to find a sum of all elements in this array between start and finish.</description>
+    </item>
+    
+  </channel>
+</rss>

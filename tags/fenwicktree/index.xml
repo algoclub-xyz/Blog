@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>fenwicktree on Algoclub</title>
+    <link>https://algoclub-xyz.github.io/Blog/tags/fenwicktree/</link>
+    <description>Recent content in fenwicktree on Algoclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoclub-xyz.github.io/Blog/tags/fenwicktree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A fish called Fenwick tree</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-19-a-fish-called-fenwick-tree/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-19-a-fish-called-fenwick-tree/</guid>
+      <description>You may wonder, &amp;ldquo;Fenwick what? Which tree???&amp;rdquo;. Don&amp;rsquo;t be afraid of the spooky term the idea is pretty innocent. Remember: fear is the path to the dark side.
+First of all, let&amp;rsquo;s start with a simple problem:
+Imagine you have an array a of integers of length n. For the sake of simplicity let&amp;rsquo;s assume it is a one-dimensional array.
+You are given 2 values start and finish and your goal is to find a sum of all elements in this array between start and finish.</description>
+    </item>
+    
+  </channel>
+</rss>

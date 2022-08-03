@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://algoclub-xyz.github.io/Blog/sitemap.xml

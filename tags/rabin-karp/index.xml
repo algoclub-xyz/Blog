@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rabin-karp on Algoclub</title>
+    <link>https://algoclub-xyz.github.io/Blog/tags/rabin-karp/</link>
+    <description>Recent content in rabin-karp on Algoclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoclub-xyz.github.io/Blog/tags/rabin-karp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s make pattern matching great again: Rabin-Karp algorithm</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-08-lets-make-pattern-matching-great-again-rabin-karp-algorithm/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-08-lets-make-pattern-matching-great-again-rabin-karp-algorithm/</guid>
+      <description>Hey folks 👋
+I know it has been a long time since we&amp;rsquo;ve published the last article. We are really sorry for this delay! Let us do not beat around the bush and jump straight to the discussion topic: pattern matching.
+Have you ever caught yourself wondering, &amp;ldquo;I have some text and I want to find a string in it. How can I do it?&amp;rdquo;
+Luckily, I have an answer for this question.</description>
+    </item>
+    
+  </channel>
+</rss>

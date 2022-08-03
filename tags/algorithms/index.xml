@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>algorithms on Algoclub</title>
+    <link>https://algoclub-xyz.github.io/Blog/tags/algorithms/</link>
+    <description>Recent content in algorithms on Algoclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoclub-xyz.github.io/Blog/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 6 the most important sorting algorithms in the world</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/04/2022-04-01-top-6-the-most-important-sorting-algorithms-in-the-world/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/04/2022-04-01-top-6-the-most-important-sorting-algorithms-in-the-world/</guid>
+      <description>Ho-ho-ho!
+Today we are going to take a look at THE MOST IMPORTANT SORTING ALGORITHMS IN THE WORLD!!!!1 You know, it is really hard to underestimate sorting algorithms. They are that much important as the sorting hat in Hogwarts!
+So, we will start from the famous BogoSort!
+1. Bogosort
+The algorithm consists of two steps:
+Shuffle the array Check if this permutation is sorted So, I always imagine that this algorithm like a clown who put all the permutations in the box.</description>
+    </item>
+    
+    <item>
+      <title>Adventures of Union Find</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-22-adventures-of-union-find/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-22-adventures-of-union-find/</guid>
+      <description>Hello folks 👋
+Glad to see you reading this article again! Today we&amp;rsquo;re gonna talk about problems in graphs.
+Let&amp;rsquo;s take a look at the problem below.
+Imagine we have an edge-weighted undirected graph consisting of a few nodes. Our target is to find a minimum spanning tree in this graph.
+Minimum spanning tree is an undirected subgraph that contains all the vertices without cycles and with a minimum edges weight.</description>
+    </item>
+    
+    <item>
+      <title>Segment Tree and The Chamber of Secrets</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-15-segment-tree-and-the-chamber-of-secrets/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-15-segment-tree-and-the-chamber-of-secrets/</guid>
+      <description>Hello folks 👋
+Another week has come and passed. It means that it is time for another article, yay!
+Do you remember the article about Fenwick tree? If don&amp;rsquo;t then, please, revisit it before starting with this one.
+During that article I mentioned an interesting data structure called Segment Tree. Unfortunately, I did not share any details about it.
+Note: also, there is another interesting data structure that can help us to achieve t_he same result.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s make pattern matching great again: Rabin-Karp algorithm</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-08-lets-make-pattern-matching-great-again-rabin-karp-algorithm/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/03/2022-03-08-lets-make-pattern-matching-great-again-rabin-karp-algorithm/</guid>
+      <description>Hey folks 👋
+I know it has been a long time since we&amp;rsquo;ve published the last article. We are really sorry for this delay! Let us do not beat around the bush and jump straight to the discussion topic: pattern matching.
+Have you ever caught yourself wondering, &amp;ldquo;I have some text and I want to find a string in it. How can I do it?&amp;rdquo;
+Luckily, I have an answer for this question.</description>
+    </item>
+    
+    <item>
+      <title>Solving Leetcode: #142 Linked List Cycle 2</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-06-solving-leetcode-142-linked-list-cycle-2/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-06-solving-leetcode-142-linked-list-cycle-2/</guid>
+      <description>Pew-pew, subs!
+How are you doing? Have you missed me?
+Today we continue to observe tortoises and hairs from [the previous Solving Leetcode session.](https://algoclub.xyz/2022/01/30/solving-leetcode-141-linked-list-cycle/(opens in a new tab)) We&amp;rsquo;re gonna solve the problem #142 Linked List Cycle 2.
+Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer.</description>
+    </item>
+    
+    <item>
+      <title>Thirty seconds over Ternary Search tree</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-02-thirty-seconds-over-ternary-search-tree/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/02/2022-02-02-thirty-seconds-over-ternary-search-tree/</guid>
+      <description>Wow! It&amp;rsquo;s been another week from the time when I wrote the previous article about grokking algorithms. The time is passing so fast I barely can see it!
+Today I want to introduce a new concept to you - Ternary Search Tree (aka TST). You may already have heard about Binary Search Tree (aka BST) and this idea is pretty similar. Don&amp;rsquo;t worry if you did not hear about BST or any trees at all before, TST is pretty easy to understand and you will quickly nail it!</description>
+    </item>
+    
+    <item>
+      <title>Solving Leetcode: #141 Linked List Cycle</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-30-solving-leetcode-141-linked-list-cycle/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-30-solving-leetcode-141-linked-list-cycle/</guid>
+      <description>Yo-yo
+Wow, another week has passed since the previous Solving Leetcode #1345 article.
+Today we are going to solve [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/ problem). Let&amp;rsquo;s start from the statement:
+Given head, the head of a linked list, determine if the linked list has a cycle in it.
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer.</description>
+    </item>
+    
+    <item>
+      <title>Blur, blur, and one more time blur</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-26-blur-blur-and-one-more-time-blur/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-26-blur-blur-and-one-more-time-blur/</guid>
+      <description>Did you ever think what is blur exactly? Generally, the blur means something unclear or something that is hard to see. We can see blur (as an effect) everywhere: you can see the similar effect looking through frosted glass, or just looking on the street through a window in a raining day drinking coffee and feeling blue just for nothing. You can also see blur in so many applications and video games.</description>
+    </item>
+    
+    <item>
+      <title>Solving Leetcode: #1345 Jump Game IV</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-23-solving-leetcode-1345-jump-game-iv/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-23-solving-leetcode-1345-jump-game-iv/</guid>
+      <description>Have you missed me?
+Yeah, me too and I am happy to be back again with a new article! Lately I did a thing and pretty glad to introduce a new have non-periodical column at our website! During these small sessions we are going to solve and explain the problems from Leetcode. Sounds exciting, right?
+So this time the problem is #1345. Jump Game IV. Let me also to copy the problem statement here.</description>
+    </item>
+    
+    <item>
+      <title>A fish called Fenwick tree</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-19-a-fish-called-fenwick-tree/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-19-a-fish-called-fenwick-tree/</guid>
+      <description>You may wonder, &amp;ldquo;Fenwick what? Which tree???&amp;rdquo;. Don&amp;rsquo;t be afraid of the spooky term the idea is pretty innocent. Remember: fear is the path to the dark side.
+First of all, let&amp;rsquo;s start with a simple problem:
+Imagine you have an array a of integers of length n. For the sake of simplicity let&amp;rsquo;s assume it is a one-dimensional array.
+You are given 2 values start and finish and your goal is to find a sum of all elements in this array between start and finish.</description>
+    </item>
+    
+    <item>
+      <title>Hello world !1!!</title>
+      <link>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-18-hello-world-1/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoclub-xyz.github.io/Blog/articles/posts/2022/01/2022-01-18-hello-world-1/</guid>
+      <description>Hello and welcome to Algo Club 👋
+My name is Alex and I am a software engineer. Yeah, a guy from IT. No, my office is not in the basement, I do speak with people, and, besides sweaters, my wardrobe has a lot of different clothes.
+I&amp;rsquo;ve been procrastinating for a long time (definitely for a few years) before started doing something. Literally, I was so unsure about anything so it was a real challenge to even pick up a proper name.</description>
+    </item>
+    
+  </channel>
+</rss>
