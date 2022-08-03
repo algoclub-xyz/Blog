@@ -1,0 +1,7 @@
+# Hugo files
+.hugo_build.lock
+*.hugo_build.lock
+
+# Build folder
+/build
+/output
