@@ -1,0 +1,74 @@
+baseURL: 'https://algoclub.xyz/'
+languageCode: 'en-us'
+title: 'Algoclub'
+paginate: 5
+theme: 'PaperMod'
+
+enableRobotsTXT: true
+buildDrafts: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Algoclub
+  description: "ExampleSite description"
+  keywords: [Blog, Algorithms, Club]
+  author: Me
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  homeInfoParams:
+    Title: Hi there folks 👋
+    Content: >
+      - My name is Alex and I am a software engineer. I really like algorithms and want to improve my english! My very [first post](posts/2022/01/2022-01-18-hello-world-1/) should explain the purpose of this blog better!
+
+      - My team is only a few people large but we are doing our best to keep the content interesting and fresh. Currently we have two periodical rubrics: [Solving Leetcode](tags/solvingleetcode/) and [Grokking Data Structures & Algorithms](tags/datastructures/). We are going to bear with a weekly schedule but, unfortunately, cannot promise it 😢
+
+      - In the meantime, while you're waiting for new articles you can check our other channels. You can find them below.
+
+      - Good luck and keep the spirit!
+
+  profileMode:
+    enabled: false
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/algoclub-xyz"
+    - name: telegram
+      url: "https://t.me/algoclub"
+    - name: buymeacoffee
+      url: "https://www.buymeacoffee.com/algoclub"
+
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Categories
+      url: categories/
+      weight: 10
+    - name: Tags
+      url: /tags/
+      weight: 20
