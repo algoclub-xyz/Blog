@@ -15,6 +15,8 @@ hugo -d $1
 
 git add $1 -f && git commit -m "AlgoClub Release #$2"
 
-git subtree push --prefix $1 origin build
+git push origin :gh-pages
+
+git subtree push --prefix $1 origin gh-pages
 
 git reset --hard HEAD~1
